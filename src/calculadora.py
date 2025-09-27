@@ -5,6 +5,6 @@ def suma (a, b):
 def resta (a, b):
     return a-b
 
-print (suma(5,3))
+#print (suma(5,3))
 
-print (resta(5,3))
+#print (resta(5,3))
